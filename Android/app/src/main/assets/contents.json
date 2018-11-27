@@ -5,8 +5,8 @@
     {
       "identifier": "1",
       "name": "AVMB Stickers",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "publisher": "Inteq",
+      "tray_image_file": "tray_amoji.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -85,13 +85,13 @@
           "emojis": ["💔","👎"]
         },
         {
-          "image_file": "19_.webp",
+          "image_file": "19_surprise.webp",
           "emojis": ["💔","👎"]
         },
         {
           "image_file": "20_sweat.webp",
           "emojis": ["💔","👎"]
-        },
+        }
       ]
     }
   ]
