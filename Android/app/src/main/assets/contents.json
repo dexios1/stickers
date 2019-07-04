@@ -91,7 +91,45 @@
         {
           "image_file": "20_sweat.webp",
           "emojis": ["💔","👎"]
-        }
+        },
+        {
+          "image_file": "21_avmb_cant_hear_you.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "22_avmb_emperor.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "23_avmb_go_straight_with_mic.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "23_avmb_kisses.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "24_avmb_look_at_him.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "25_avmb_shocked_with_mic.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "26_avmb_speak_after_shock.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "27_avmb_thumbs_up.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "28_avmb_warning_with_mic.webp",
+          "emojis": ["💔","👎"]
+        },
+
+
       ]
     }
   ]
